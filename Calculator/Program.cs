@@ -9,7 +9,7 @@ Console.WriteLine("-----------------------\n");
 
 //Ask the user to type the first number.
 Console.WriteLine("Type a number, and then press enter.");
-num2 = Convert.ToInt32(Console.ReadLine());
+num1 = Convert.ToInt32(Console.ReadLine());
 
 //Ask the user to type the second number.
 Console.WriteLine("Type another number, and then press enter.");
